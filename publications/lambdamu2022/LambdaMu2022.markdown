@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impact of the reliability of ICT systems on power systems with system integrity protection schemes
-permalink: /publications/lambdamu2022
+permalink: publications/lambdamu2022
 ---
 
 ## Abstract
@@ -16,7 +16,7 @@ With the energy transition, the share of distributed renewable energy resources,
 ```
 @inproceedings{LambdaMu2022,
 author = {Sabot, Frédéric and Henneaux, Pierre and Labeau, Pierre-Etienne and Dricot, Jean-Michel},
-booktitle={23e congrès de Maîtrise des risques et de Sûreté de Fonctionnement (Lambda Mu 23)},
+booktitle={23ème congrès de Maîtrise des risques et de Sûreté de Fonctionnement (Lambda Mu 23)},
 year = {2022},
 month = 10,
 title = {Impact of the reliability of {ICT} systems on power systems with system integrity protection schemes},

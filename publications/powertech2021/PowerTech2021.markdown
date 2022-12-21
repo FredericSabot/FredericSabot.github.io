@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MCDET as a Tool for Probabilistic Dynamic Security Assessment of Transmission Systems
-permalink: /publications/powertech2021
+permalink: publications/powertech2021
 ---
 
 ## Abstract
