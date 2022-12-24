@@ -19,8 +19,9 @@ author = {Sabot, Frédéric and Henneaux, Pierre and Labeau, Pierre-Etienne and 
 booktitle={23ème congrès de Maîtrise des risques et de Sûreté de Fonctionnement (Lambda Mu 23)},
 year = {2022},
 month = 10,
+address = {Paris Saclay, France},
 title = {Impact of the reliability of {ICT} systems on power systems with system integrity protection schemes},
-doi = {To Be Added After Publication}
+url = {https://hal.archives-ouvertes.fr/hal-03876439}
 }
 ```
 {% endraw %}
