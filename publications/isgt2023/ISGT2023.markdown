@@ -1,0 +1,37 @@
+---
+layout: page
+permalink: publications/isgt2023
+---
+
+## Abstract
+
+To add after publication
+
+[Download full text here]
+
+## Citation
+
+{% raw %}
+```
+To add
+```
+{% endraw %}
+
+## Supplementary data
+
+**Note:** The links below provide with the data that were used to write the above publication. For more up-to-date versions, please refer to the master branch of the linked repositories.
+
+[Test systems](https://github.com/FredericSabot/dynawo-algorithms/tree/2_DynamicEquivalents/examples):
+* CIGRE_MV_Wind_voltage: Files to derive dynamic equivalents with only short-circuits in the training set
+* CIGRE_MV_Wind_frequency: Also considering frequency ramps in the training set
+* CIGRE_MV_Wind_infbus: Training using an infinite bus with variations (leads to an equivalent with poor performance)
+* CIGRE_MV_Wind_reduced: Leads to a simple equivalent made of a simple restorative load model
+* IEEE39_CCT: Files for critical clearing time computations on the IEEE 39-bus system (has first to be merged with a load model using the MergeTD.py script)
+* IEEE39_protected_N_2: Files to cascading outage simulations of the IEEE 39-bus system (has first to be merged with a load model using the MergeTD.py script)
+
+Note that the above networks include dynamic models that are available [here](https://github.com/FredericSabot/dynawo/tree/22_ISGT2023)
+
+[Scripts](https://github.com/FredericSabot/dynawo-algorithms/tree/2_DynamicEquivalents/Scripts/DynamicEquivalents). Python scripts used to derive the dynamic equivalents and to build the T&D networks. For more details, please refer to the documentation of the .py files or contact me.
+
+As briefly discussed in the paper, we also tried to complement the differential evolution (DE) algorithm using a least absolute shrinkage and selection operator (LASSO) and by iteratively adding disturbances to the training set as proposed in the thesis of Gilles Chaspierre, but this led to slower convergence in our case. The scripts used for this are available in a separate [branch](https://github.com/FredericSabot/dynawo-algorithms/tree/7_DynamicEquivalents_UnusedScripts/Scripts/DynamicEquivalents).
+
