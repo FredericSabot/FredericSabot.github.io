@@ -3,13 +3,17 @@ layout: page
 title: Publications
 ---
 
+# [Efficient sampling methods for probabilistic dynamic security assessment of power systems](https://fredericsabot.github.io/publications/pscc2024)
+
+Submitted at 2024 PSCC
+
 # [Statistics-informed bounds for active distribution network equivalents subject to large disturbances](https://fredericsabot.github.io/publications/isgt2023)
 
-Submitted to 2023 IEEE PES ISGT Europe 2023
+Presented at 2023 IEEE PES ISGT Europe 2023
 
 # [Handling protection-related uncertainties in simulations of fast cascading outages](https://fredericsabot.github.io/publications/powertech2023)
 
-Submitted to 2023 IEEE PES ISGT Europe 2023
+Presented at 2023 IEEE PES ISGT Europe 2023
 
 # [Impact of the reliability of ICT systems on power systems with system integrity protection schemes](https://fredericsabot.github.io/publications/lambdamu2022)
 

@@ -1,0 +1,22 @@
+---
+layout: page
+permalink: publications/pscc2024
+---
+
+## Abstract
+
+To add after publication
+
+[Download full text here]
+
+## Citation
+
+{% raw %}
+```
+to add
+```
+{% endraw %}
+
+## Supplementary data
+
+All data and algorithms are available on [https://github.com/FredericSabot/PDSA-RTS-GMLC](https://github.com/FredericSabot/PDSA-RTS-GMLC). Please refer to the README for more information

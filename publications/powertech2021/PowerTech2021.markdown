@@ -14,8 +14,14 @@ In the field of power systems, a fast cascade is defined as the part of a cascad
 
 {% raw %}
 ```
-@INPROCEEDINGS{powertech2021asTool, 
-author={Sabot, Frédéric and Henneaux, Pierre and Labeau, Pierre-Etienne},  booktitle={2021 IEEE Madrid PowerTech},   title={{powertech2021} as a Tool for Probabilistic Dynamic Security Assessment of Transmission Systems},   year={2021}, month = 6,  doi={10.1109/PowerTech46648.2021.9494758}}
+@INPROCEEDINGS{MCDETasTool,
+    author={Sabot, Frédéric and Henneaux, Pierre and Labeau, Pierre-Etienne},
+    booktitle={2021 IEEE Madrid PowerTech},
+    title={MCDET as a Tool for Probabilistic Dynamic Security Assessment of Transmission Systems},
+    year={2021},
+    month = 6,
+    doi={10.1109/PowerTech46648.2021.9494758}
+}
 ```
 {% endraw %}
 
