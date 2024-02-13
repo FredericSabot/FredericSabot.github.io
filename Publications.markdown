@@ -15,6 +15,10 @@ Presented at 2023 IEEE PES ISGT Europe 2023
 
 Presented at 2023 IEEE PES ISGT Europe 2023
 
+# [Towards an Efficient Simulation Approach for Transmission Systems with ICT Infrastructures](https://fredericsabot.github.io/publications/arxiv2023)
+
+Arxiv preprint
+
 # [Impact of the reliability of ICT systems on power systems with system integrity protection schemes](https://fredericsabot.github.io/publications/lambdamu2022)
 
 Presented at 23ème congrès de Maîtrise des risques et de Sûreté de Fonctionnement (Lambda Mu 23)

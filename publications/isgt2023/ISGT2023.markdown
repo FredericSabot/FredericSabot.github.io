@@ -7,7 +7,7 @@ permalink: publications/isgt2023
 
 Distributed energy resources (DERs) are expected to provide increasingly large amounts of energy and ancillary services to the grid. However, modelling distribution-connected assets in transmission studies is a challenge due to their sheer number, and due to the low visibility in distribution grids. To tackle this challenge, one of the main approaches consists in reducing detailed models of distribution grids into equivalent models, but few researchers considered the fact that detailed models are subject to many uncertainties. In this work, we proposed to derive equivalents based on quantiles of the behaviour of detailed models. Such equivalents can then be used to obtain statistics-informed bounds on the results of any transmission studies. We demonstrate the accuracy of this approach by comparing it to probabilistic transmission and distribution (\TD{}) simulations in both critical clearing time computations and simulations of cascading outages.
 
-[Download full text here] To add after publication
+[Download full text here](https://difusion.ulb.ac.be/vufind/Record/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/368958/Holdings)
 
 ## Citation
 
@@ -15,11 +15,11 @@ Distributed energy resources (DERs) are expected to provide increasingly large a
 ```
 @INPROCEEDINGS{ISGT2023_ADN,
     author={Sabot, Frédéric and Henneaux, Pierre and Lamprianidou, Ifigeneia S. and Papadopoulos, Panagiotis N.},
-    booktitle={IEEE PES ISGT Europe 2023},
+    booktitle={2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)},
     title={Statistics-informed bounds for active distribution network equivalents subject to large disturbances},
     year={2023},
     month = 10,
-    doi={To add after publication}
+    doi={10.1109/ISGTEUROPE56780.2023.10408629}
 }
 ```
 {% endraw %}

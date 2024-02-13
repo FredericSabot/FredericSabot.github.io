@@ -7,7 +7,7 @@ permalink: publications/powertech2023
 
 Cascading outages in power systems are complex phenomena that are difficult to model and not yet fully understood. When attempting to simulate cascading outages, close attention should thus be paid to modelling uncertainties. This is especially true for fast cascading outages (i.e. cascading outages that are driven by electromechanical transients) during which many protection systems can operate in close succession. Indeed, small variations in the timing of a protection operation can vastly impact the cascade propagation and its consequences. A classical approach to account for modelling uncertainties is to perform Monte Carlo (MC) simulations which is computationally challenging. To alleviate this challenge, we propose an indicator based on sequences of tripping events to predict which contingencies are more sensitive to uncertainties and which are less. MC simulations can be avoided for the latter, saving computation time. The performance of our indicator is demonstrated using a modified version of the IEEE 39-bus test system. We show that analysing the sequences of tripping events leads to better performing indicators than looking only at the consequences (e.g. load shedding) of cascades. We also show how the proposed indicator can be used to speed up a simplified probabilistic security assessment.
 
-[Download full text here] To add after publication
+[Download full text here](https://difusion.ulb.ac.be/vufind/Record/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/368959/Holdings)
 
 ## Citation
 
@@ -15,11 +15,11 @@ Cascading outages in power systems are complex phenomena that are difficult to m
 ```
 @INPROCEEDINGS{ISGT2023_Protections,
     author={Sabot, Frédéric and Labeau, Pierre-Etienne and Henneaux, Pierre},
-    booktitle={IEEE PES ISGT Europe 2023},
+    booktitle={2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)},
     title={Handling protection-related uncertainties in simulations of fast cascading outages},
     year={2023},
     month = 10,
-    doi={To add after publication}
+    doi={10.1109/ISGTEUROPE56780.2023.10408629}
 }
 ```
 {% endraw %}
