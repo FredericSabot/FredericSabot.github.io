@@ -3,9 +3,9 @@ layout: page
 title: Publications
 ---
 
-# [Efficient sampling methods for probabilistic dynamic security assessment of power systems](https://fredericsabot.github.io/publications/pscc2024)
+# [Probabilistic dynamic security assessment of power systems](https://fredericsabot.github.io/publications/pscc2024)
 
-Submitted at 2024 PSCC
+Work in progress
 
 # [Statistics-informed bounds for active distribution network equivalents subject to large disturbances](https://fredericsabot.github.io/publications/isgt2023)
 
