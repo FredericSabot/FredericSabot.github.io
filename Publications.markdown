@@ -7,6 +7,10 @@ title: Publications
 
 Work in progress
 
+# [Impact of active distribution networks on power system stability - a case study](https://fredericsabot.github.io/publications/cigre2024)
+
+To be presented at the CIGRE Paris Session 2024
+
 # [Statistics-informed bounds for active distribution network equivalents subject to large disturbances](https://fredericsabot.github.io/publications/isgt2023)
 
 Presented at 2023 IEEE PES ISGT Europe 2023
