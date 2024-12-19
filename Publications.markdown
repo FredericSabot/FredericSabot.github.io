@@ -3,13 +3,13 @@ layout: page
 title: Publications
 ---
 
-# [Probabilistic dynamic security assessment of power systems](https://fredericsabot.github.io/publications/pscc2024)
+# [Towards Probabilistic Dynamic Security Assessment and Enhancement of Large Power Systems](https://fredericsabot.github.io/publications/pscc2024)
 
 Work in progress
 
 # [Impact of active distribution networks on power system stability - a case study](https://fredericsabot.github.io/publications/cigre2024)
 
-To be presented at the CIGRE Paris Session 2024
+Presented at the CIGRE Paris Session 2024
 
 # [Statistics-informed bounds for active distribution network equivalents subject to large disturbances](https://fredericsabot.github.io/publications/isgt2023)
 
