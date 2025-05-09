@@ -12,8 +12,7 @@ In the field of power systems, a fast cascade is defined as the part of a cascad
 
 ## Citation
 
-{% raw %}
-```
+```bibtex
 @INPROCEEDINGS{MCDETasTool,
     author={Sabot, Frédéric and Henneaux, Pierre and Labeau, Pierre-Etienne},
     booktitle={2021 IEEE Madrid PowerTech},
@@ -23,7 +22,6 @@ In the field of power systems, a fast cascade is defined as the part of a cascad
     doi={10.1109/PowerTech46648.2021.9494758}
 }
 ```
-{% endraw %}
 
 ## Supplementary data
 

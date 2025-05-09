@@ -11,8 +11,7 @@ Distributed energy resources (DERs) are expected to provide increasingly large a
 
 ## Citation
 
-{% raw %}
-```
+```bibtex
 @INPROCEEDINGS{ISGT2023_ADN,
     author={Sabot, Frédéric and Henneaux, Pierre and Lamprianidou, Ifigeneia S. and Papadopoulos, Panagiotis N.},
     booktitle={2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)},
@@ -22,7 +21,6 @@ Distributed energy resources (DERs) are expected to provide increasingly large a
     doi={10.1109/ISGTEUROPE56780.2023.10408629}
 }
 ```
-{% endraw %}
 
 ## Supplementary data
 

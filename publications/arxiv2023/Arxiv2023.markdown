@@ -11,8 +11,7 @@ With the transition towards a smart grid, Information and Communications Technol
 
 ## Citation
 
-{% raw %}
-```
+```bibtex
 @misc{sabot2023cosim,
       title={Towards an Efficient Simulation Approach for Transmission Systems with ICT Infrastructures},
       author={Frédéric Sabot and Pierre-Etienne Labeau and Jean-Michel Dricot and Pierre Henneaux},
@@ -22,7 +21,6 @@ With the transition towards a smart grid, Information and Communications Technol
       primaryClass={eess.SY}
 }
 ```
-{% endraw %}
 
 ## Supplementary data
 

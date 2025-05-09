@@ -5,7 +5,11 @@ title: Publications
 
 # [Towards Probabilistic Dynamic Security Assessment and Enhancement of Large Power Systems](https://fredericsabot.github.io/publications/pscc2024)
 
-Work in progress
+Arvix preprint
+
+# [Probabilistic Dynamic Security Assessment of Power Systems](https://difusion.ulb.ac.be/vufind/Record/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/384301/Holdings)
+
+PhD thesis
 
 # [Impact of active distribution networks on power system stability - a case study](https://fredericsabot.github.io/publications/cigre2024)
 

@@ -5,17 +5,23 @@ permalink: publications/pscc2024
 
 ## Abstract
 
-To add after publication
+This paper proposes a novel methodology for probabilistic dynamic security assessment and enhancement of power systems that considers load and generation variability, N-2 contingencies, and uncertain cascade propagation caused by uncertain protection system behaviour. In this methodology, a database of likely operating conditions is generated via weather data, a market model and a model of operators' preventive actions. System states are sampled from this database and contingencies are applied to them to perform the security assessment. Rigorous statistical indicators are proposed to decide how many biased and unbiased samples to simulate to reach a target accuracy on the statistical error on the estimated risk from individual contingencies. Optionally, a screening of contingencies can be performed to limit the computational burden of the analysis. Finally, interpretable machine learning techniques are used to identify the root causes of the risk from critical contingencies, to ease the interpretation of the results, and to help with security enhancement. The method is demonstrated on the 73-bus reliability test system, and the scalability to large power systems (with thousands of buses) is also discussed.
 
-[Download full text here]
+[Download full text here](https://arxiv.org/abs/2505.01147)
 
 ## Citation
 
-{% raw %}
+```bibtex
+@misc{sabot2025PDSA,
+      title={Towards Probabilistic Dynamic Security Assessment and Enhancement of Large Power Systems},
+      author={Frédéric Sabot and Pierre-Etienne Labeau and Pierre Henneaux},
+      year={2025},
+      eprint={2505.01147},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2505.01147},
+}
 ```
-to add
-```
-{% endraw %}
 
 ## Supplementary data
 

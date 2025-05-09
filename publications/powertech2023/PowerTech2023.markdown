@@ -11,8 +11,7 @@ Cascading outages in power systems are complex phenomena that are difficult to m
 
 ## Citation
 
-{% raw %}
-```
+```bibtex
 @INPROCEEDINGS{ISGT2023_Protections,
     author={Sabot, Frédéric and Labeau, Pierre-Etienne and Henneaux, Pierre},
     booktitle={2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)},
@@ -22,7 +21,6 @@ Cascading outages in power systems are complex phenomena that are difficult to m
     doi={10.1109/ISGTEUROPE56780.2023.10408629}
 }
 ```
-{% endraw %}
 
 ## Supplementary data
 
