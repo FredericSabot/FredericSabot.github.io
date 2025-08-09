@@ -14,11 +14,15 @@ Full text link to add after publication
 
 ## Citation
 
-{% raw %}
+```bibtex
+@INPROCEEDINGS{CIGRE2024_ADN,
+    author={Frédéric SABOT and Pierre HENNEAUX and Ifigeneia S. LAMPRIANIDOU and Panagiotis N. PAPADOPOULOS and Keith BELL},
+    booktitle={CIGRE Paris Session 2024},
+    title={Impact of active Distribution Networks on Power System Stability - a Case Study},
+    year={2024},
+    month = 8,
+}
 ```
-To add after publication
-```
-{% endraw %}
 
 ## Supplementary data
 

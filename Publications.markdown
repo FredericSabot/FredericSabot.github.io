@@ -3,6 +3,14 @@ layout: page
 title: Publications
 ---
 
+# [Toward a Cyber-Physical Digital Twin for Operator Training: Real-Time Co-Simulation of the French Grid](https://fredericsabot.github.io/publications/pscc2026_cosim)
+
+Submitted to PSCC 2026
+
+# [Identification of Potential Critical Hidden Failures Through Probabilistic Dynamic Security Assessment of Power Systems](https://fredericsabot.github.io/publications/pscc2026_protections)
+
+Submitted to PSCC 2026
+
 # [Towards Probabilistic Dynamic Security Assessment and Enhancement of Large Power Systems](https://fredericsabot.github.io/publications/pscc2024)
 
 Arvix preprint
